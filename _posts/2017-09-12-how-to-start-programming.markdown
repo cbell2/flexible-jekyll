@@ -3,7 +3,7 @@ layout: post
 title: A Bad Design Hanging Around WPI
 date: 2018-03-16 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
+img: HCI Bad3.jpeg # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
 Nobody at WPI looks forward to winter. Whether it be the bone-chilling bursts of wind or the metric tons of snow that make walking across the Quad feel like you’re trekking through Hoth, winter is not welcomed with open arms. However, while snow drifts and black ice have laid siege to the campus, WPI students have become inconvenienced by a problem rooted in poor design choices that they might’ve not seen forming right in front of their eyes: icicles.
