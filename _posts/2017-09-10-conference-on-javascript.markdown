@@ -3,7 +3,7 @@ layout: post
 title: Design for Understanding
 date: 2018-04-02 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: js-1.png # Add image post (optional)
+img: Understanding.jpg # Add image post (optional)
 tags: [Js, Conference] # add tag
 ---
 For project two, we, group 13, worked with one another in order to map data with the goal of communicating information with two different lenses in mind: clear communication and reasoning, and persuasive communication and storytelling. The first lens, clear communication and reasoning aims to portray a clear, in-depth, and unbiased representation of the data. The second lens, persuasive communication and storytelling, aims to frame the data in a compelling way.
