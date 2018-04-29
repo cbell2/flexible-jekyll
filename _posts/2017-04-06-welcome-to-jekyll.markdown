@@ -3,7 +3,7 @@ layout: post
 title: Design for Wellbeing
 date: 2018-04-23 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img:  # Add image post (optional)
+img: Wellbeing.jpeg # Add image post (optional)
 ---
 In this design sprint, we used the Affectiva Libraries to develop a website that responds to user emotion and promote wellbeing. We chose to analyze a user’s reactions or emotions while listening to a song on YouTube. Using the four emotions, joy, sadness, neutral, and screaming, users can impact the video by increasing the volume, skipping the video, keeping it the same, and muting the volume respectively. Our overarching goal was to get the user to discover a song or video that they think is interesting. Below is a demo video that highlights the key features of our project:
 
