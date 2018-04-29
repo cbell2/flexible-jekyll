@@ -3,7 +3,7 @@ layout: post
 title: Design for Others
 date: 2018-03-25 00:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: Others.jpeg # Add image post (optional)
 tags: [Productivity, Software] # add tag
 ---
 For this project, we redesigned the Worcester Public Library website for a mobile phone while also directing the design towards a certain demographic. We were tasked to design our website for churches/religious organizations. As a result, we aimed to create a website that emphasized being involved in the library community, which was an aspect that religion-centric libraries that we looked at focused on, while still maintaining a sleek and intuitive user experience.
