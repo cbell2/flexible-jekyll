@@ -3,7 +3,7 @@ layout: post
 title: Design for Tension
 date: 2018-04-10 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: https://cdn-images-1.medium.com/max/800/0*a4W3jzuQfRrvTiOB # Add image post (optional)
+img: dog.jpg # Add image post (optional)
 tags: [Holidays, Hawaii]
 ---
 As far as controversy goes, the modern-day climate is one of toxicity and constant in-fighting. People are more than willing to go at one another’s throats just to get a “like” or to preach to crowds of non-existent listeners over their social media platform of choice. Political turmoil has rooted itself in the minds of the populous and a plethora of issues, ranging from environmental disasters to biological horrors, linger in the thoughts of the everyday man. However, throughout time, one debate, so tense and so hotly debated, has stood out from the others and has sharply divided the human race: whether dogs are better than cats (…or vice versa).
