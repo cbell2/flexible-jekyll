@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design for Wellbeing
+title: Design Manifesto
 date: 2018-04-30 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: Wellbeing.jpeg # Add image post (optional)
